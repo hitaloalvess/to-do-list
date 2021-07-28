@@ -1,0 +1,23 @@
+.task-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: .8rem;
+    margin-bottom: .8rem;
+    border-radius: 6px;
+    background-color: #444;
+}
+.title-task-container{
+    cursor: pointer;
+}
+
+.task-container .task-button-close{
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    margin: 0 .8rem;
+    cursor: pointer;
+    color: chartreuse;
+    background-color: #444;
+}

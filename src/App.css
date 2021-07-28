@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+main{
+  display: flex;
+  flex-direction: column;
+  width: min(50rem, 90%);
+  min-height: 20rem;
+  padding: 3rem;
+  margin-top: 3rem;
+  border-radius: 10px;
+  border: 2px solid chartreuse;
+  font-size: 1.6rem;
+  color: #eee;
+  background-color: transparent;
+}
