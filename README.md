@@ -6,7 +6,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-objectives">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-run-the-project">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-run-the-project">How to run the project?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Technologies
@@ -47,9 +47,8 @@ First of all, clone the repository:
 # Cloning the repository
 git clone https://github.com/hitaloalvess/to-do-list.git
 
-### ✅ Na sequência: 
+# ✅ Na sequência: 
 
-```bash
 # Enter directory
 cd frontend
 
