@@ -47,7 +47,7 @@ First of all, clone the repository:
 # Cloning the repository
 git clone https://github.com/hitaloalvess/to-do-list.git
 
-# ✅ Na sequência: 
+# ✅ In sequence: 
 
 # Enter directory
 cd frontend
