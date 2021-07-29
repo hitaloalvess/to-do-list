@@ -6,7 +6,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-objectives">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-installation">Installation</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-run-the-project">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Technologies
@@ -39,9 +39,25 @@ The creation of this project was carried out with the objective of taking the fi
 - Event handling
 - Hooks, etc...
 
-## 🚀 Installation
-```
----
+## ⌨ How to run the project
+
+First of all, clone the repository:
+
+```bash
+# Cloning the repository
+git clone https://github.com/hitaloalvess/to-do-list.git
+
+### ✅ Na sequência: 
+
+```bash
+# Enter directory
+cd frontend
+
+# Download the dependencies
+npm install
+
+# Starting the project
+npm start
 ```
 ---
 Made with ♥ by Hitalo 🚀
