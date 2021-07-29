@@ -1,13 +1,16 @@
 .add-tasks-container{
     display: flex;
+    width: 100%;
     height: 4rem;
     margin: 1.5rem 0;
 }
 
 .add-tasks-container input{
+    width: min(29rem, 80%);
     height: 100%;
     flex: 2 1;
     padding: 0 1rem;
+    margin-right: 1rem;
     border-radius: 6px;
     border: none;
     font-size: 1.6rem;

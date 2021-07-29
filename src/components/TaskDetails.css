@@ -1,0 +1,19 @@
+.back-button-container{
+    width: 30%;
+    height: 4.5vh;
+    display: flex;
+    margin-top: 1rem;
+}
+
+
+.task-details-container{
+    margin: 1.5rem 0;
+    padding: 1.5rem 2rem;
+    border-radius: 6px;
+    background-color: #444;
+}
+
+.task-details-container h2{
+    color: chartreuse;
+    margin-bottom: .5rem;
+}

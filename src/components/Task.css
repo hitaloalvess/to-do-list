@@ -12,7 +12,12 @@
     cursor: pointer;
 }
 
-.task-container .task-button-close{
+.buttons-task-container{
+    display: flex;
+}
+
+.task-container .task-button-close,
+.task-container .task-button-info{
     display: flex;
     align-items: center;
     font-size: 1.6rem;
